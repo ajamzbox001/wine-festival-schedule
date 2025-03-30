@@ -1,3 +1,4 @@
 # Wine Festival Schedule
-<p>This is the schedule for Wine Festival. Using HTML Table and CSS.<p>
-<p>Practicing using table.</p>
+
+<p>This is the Family Wine Festival Schedule web page.</p>
+<p>Using HTML to code Table structure and CSS to style.</p>
